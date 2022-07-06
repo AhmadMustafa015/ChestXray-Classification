@@ -1,0 +1,3 @@
+C:\Users\RadioscientificOne\PycharmProjects\Aphrodite\CheXpert\Chexpert\CheXpert-v1.0-small\valid/patient64543/study1/view1_frontal.jpg
+C:\Users\RadioscientificOne\PycharmProjects\Aphrodite\CheXpert\Chexpert\CheXpert-v1.0-small\valid/patient64544/study1/view1_frontal.jpg
+C:\Users\RadioscientificOne\PycharmProjects\Aphrodite\CheXpert\Chexpert\CheXpert-v1.0-small\valid/patient64546/study1/view1_frontal.jpg
